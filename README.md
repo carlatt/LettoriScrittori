@@ -1,1 +1,1 @@
-Carlo Attardi - risoluzione del problema di sicronizzazione LettoriScrittori (sistemi operativi)
+Carlo Attardi - risoluzione personale del problema di sicronizzazione LettoriScrittori (sistemi operativi)
